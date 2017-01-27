@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "transform-react-jsx",
+    "transform-async-to-generator",
+    "syntax-jsx"
+  ]
+}
